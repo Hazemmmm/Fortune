@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/fortune/static/css/main.0ae44ac0.chunk.css",
+    "main.js": "/fortune/static/js/main.af919c20.chunk.js",
+    "main.js.map": "/fortune/static/js/main.af919c20.chunk.js.map",
+    "runtime~main.js": "/fortune/static/js/runtime~main.35538392.js",
+    "runtime~main.js.map": "/fortune/static/js/runtime~main.35538392.js.map",
+    "static/css/2.6059fa29.chunk.css": "/fortune/static/css/2.6059fa29.chunk.css",
+    "static/js/2.4d94dc88.chunk.js": "/fortune/static/js/2.4d94dc88.chunk.js",
+    "static/js/2.4d94dc88.chunk.js.map": "/fortune/static/js/2.4d94dc88.chunk.js.map",
+    "index.html": "/fortune/index.html",
+    "precache-manifest.34f48fa3a28a8d14a277ea3489e6a9a6.js": "/fortune/precache-manifest.34f48fa3a28a8d14a277ea3489e6a9a6.js",
+    "service-worker.js": "/fortune/service-worker.js",
+    "static/css/2.6059fa29.chunk.css.map": "/fortune/static/css/2.6059fa29.chunk.css.map",
+    "static/css/main.0ae44ac0.chunk.css.map": "/fortune/static/css/main.0ae44ac0.chunk.css.map",
+    "static/media/mdb.css": "/fortune/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/View360.png": "/fortune/static/media/View360.838f0f03.png",
+    "static/media/banner.png": "/fortune/static/media/banner.829eada0.png",
+    "static/media/bestseller.png": "/fortune/static/media/bestseller.7645e108.png",
+    "static/media/category-1.png": "/fortune/static/media/category-1.e46492ab.png",
+    "static/media/category-4.png": "/fortune/static/media/category-4.da235610.png",
+    "static/media/all.min.css": "/fortune/static/media/fa-solid-900.d6d8d5da.woff2",
+    "static/media/hotoffers.png": "/fortune/static/media/hotoffers.1f94d318.png",
+    "static/media/mall1.png": "/fortune/static/media/mall1.0a8143d6.png",
+    "static/media/mall3.png": "/fortune/static/media/mall3.e71827ee.png",
+    "static/media/mall4.png": "/fortune/static/media/mall4.46386224.png",
+    "static/media/slick-theme.css": "/fortune/static/media/slick.f97e3bbf.svg",
+    "static/media/slider1.png": "/fortune/static/media/slider1.bc4639ef.png",
+    "static/media/slider3.png": "/fortune/static/media/slider3.d94f83f0.png"
+  }
+}
